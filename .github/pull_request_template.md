@@ -22,6 +22,7 @@ A List of Issues this PR aims to fix or is related to.
 - [ ] This PR includes test changes
 - [ ] This PR's changes are already tested
 ---
+- [ ] This change is not user-facing
 - [ ] This change is a patch change
 - [ ] This change is a minor change
 - [ ] This change is a major (breaking) change
